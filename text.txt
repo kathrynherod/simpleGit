@@ -2,4 +2,5 @@ This is going to be my first commit
 
 MORE STUFF
 
+This is a change on my first branch
 I'm adding a change to master that the other two branches don't know about
