@@ -4,3 +4,4 @@ MORE STUFF
 
 This is a change on my first branch
 I'm adding a change to master that the other two branches don't know about
+This is a message from my second branch
